@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 0,
+        "img": "tps://ibb.co/1Jv4tWM",
+        "estate_title": "Cool Mansions",
+        "segment_name": "mansions",
+        "description": "mansion for the best rent price",
+        "price": "$3000/night",
+        "Status": "rent",
+        "Area": "4500",
+        "location": "9JVV+FC-Hurghada 2",
+        "facilities": " multiple bedrooms and bathrooms, a gourmet kitchen, a home theater, a gym or fitness center, a swimming pool, a spa or sauna, a wine cellar, a library or study, a game room, a home office"
+    },
+    {
+        "Id": 1,
+        "img": "tps://ibb.co/J5Smm0C",
+        "estate_title": "Awasome villas for rent",
+        "segment_name": "Villas",
+        "description": "villas for rent in the monthly payment ",
+        "price": "5500/month",
+        "Status": "rent",
+        "Area": "2000",
+        "location": "Marina Abu Tig",
+        "facilities": "Private Outdoor Spaces,Gourmet Kitchen,Recreational Facilities"
+    },
+    {
+        "Id": 2,
+        "img": "tps://ibb.co/fd2TKhL",
+        "estate_title": "private islands for rent",
+        "segment_name": "private islands",
+        "description": "the parivate island for sale for the best price",
+        "price": "$70,000",
+        "Status": "sale",
+        "Area": "5000",
+        "location": "Egypt",
+        "facilities": "Private Beaches,Wellness and Recreation Facilities,Staff and Services"
+    },
+    {
+        "Id": 3,
+        "img": "tps://ibb.co/47RWNZB",
+        "estate_title": "resorts for sale",
+        "segment_name": " resorts",
+        "description": "this sale resorts for the best deal and offer",
+        "price": "$25000",
+        "Status": "sale",
+        "Area": "5600",
+        "location": "Hurghada, Egypt",
+        "facilities": "Concierge Services,Dining Options"
+    },
+    {
+        "Id": 4,
+        "img": "tps://ibb.co/sb94VW1",
+        "estate_title": "Beachfront properties for rent",
+        "segment_name": "Beachfront properties",
+        "description": "there you have the all fasality what all are need for you",
+        "price": "$7000/night",
+        "Status": "rent",
+        "Area": "3000",
+        "location": "Touristic Villages,Egypt",
+        "facilities": "Resort-style Amenities,Waterfront Activities"
+    },
+    {
+        "Id": 5,
+        "img": "tps://ibb.co/hZTBnP9",
+        "estate_title": "Penthouse for rent",
+        "segment_name": "Penthouse",
+        "description": "The penthouse for sale and for this time it will  be low price sale  ",
+        "price": "$2700",
+        "Status": "sale",
+        "Area": "2300",
+        "location": "House#14,1219",
+        "facilities": "marble countertops, and designer lighting"
+    }
+]
