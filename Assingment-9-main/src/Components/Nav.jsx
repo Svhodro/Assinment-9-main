@@ -27,11 +27,11 @@ function Nav() {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
-                <button class="btn btn-active">Login</button>
+                <button className="btn btn-active">Login</button>
               </li>
               <li>
                 {" "}
-                <button class="btn btn-active">Logout</button>{" "}
+                <button className="btn btn-active">Logout</button>{" "}
               </li>
             </ul>
           </div>
@@ -45,10 +45,10 @@ function Nav() {
           </ul>
         </div>
         <div className="navbar-end gap-3">
-          <button class="btn btn-active">Login</button>
-          <button class="btn btn-active">Logout</button>
-          <div class="avatar">
-            <div class="w-14 mask mask-squircle">
+          <button className="btn btn-active">Login</button>
+          <button className="btn btn-active">Logout</button>
+          <div className="avatar">
+            <div className="w-14 mask mask-squircle">
               <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
             </div>
           </div>
